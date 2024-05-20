@@ -1,0 +1,30 @@
+VF2WP - Simplify Voiceflow to WordPress Integration by TESSA - Plugin License Agreement
+
+1. Introduction
+This License Agreement ("Agreement") is a legal agreement between you (either an individual or a single entity) and Tessa Marketing and Technology LLC, a company registered in the Commonwealth of Virginia ("Developer"), for the "VF2WP - Simplify Voiceflow to WordPress Integration by TESSA" plugin ("Plugin"). This includes computer software, associated media, printed materials, and online or electronic documentation. The Plugin is licensed, not sold, to you under the terms of the GNU General Public License as published by the Free Software Foundation ("GPL").
+
+2. Grant of License
+a. GPL License: The Plugin is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+b. Scope of Grant: The GPL allows you to run, study, share, and modify the Plugin so that you and the community benefit from the modifications.
+
+3. Description of Other Rights and Limitations
+a. Distribution and Modifications: If you distribute copies or modifications of the Plugin, you must pass along the same freedoms to the recipients. You must distribute such modifications under the same terms as the GPL, and you must provide the modified source code alongside any binary or executable forms of the software, in a manner that makes it accessible and modifiable by the recipients.
+b. Compliance with Applicable Laws: You must comply with all applicable laws regarding the use of the Plugin.
+
+4. Termination
+The GPL ensures that the Plugin is free software for its entire lifecycle. Your rights under this License will terminate automatically without notice if you fail to comply with any of its terms and conditions.
+
+5. Copyright
+The Plugin is owned by Developer and is protected by copyright and other intellectual property laws and treaties. Developer or its suppliers own the title, copyright, and intellectual property rights in and to the Plugin, distributed under the terms of the GPL.
+
+6. No Warranties
+As permitted under the GPL, the Plugin is provided "as is", without warranty of any kind, either expressed or implied, including, without limitation, the implied warranties of merchantability and fitness for a particular purpose.
+
+7. Limitation of Liability
+In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts), shall Developer, as permitted by the GPL, be liable for damages, including any general, special, incidental, or consequential damages arising out of the use or inability to use the Plugin.
+
+8. General
+This Agreement confirms your acceptance of the Plugin under the terms of the GPL and your understanding of its terms. The laws of the Commonwealth of Virginia govern any claims and disputes involving Developer without regard to conflict of law provisions.
+
+9. Acknowledgement
+By installing and using the Plugin, you acknowledge that you have read this Agreement, understand it, and agree to be bound by its terms and conditions. You also agree to ensure that any end users of the Plugin receive a copy of this GPL license agreement.

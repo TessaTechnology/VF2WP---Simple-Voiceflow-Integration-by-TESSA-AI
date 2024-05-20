@@ -21,7 +21,7 @@ Add your Voiceflow AI agent into your WordPress site in minutes. VF2WP - Simple 
 ### Key Features
 * **Seamless Integration:** Easily connect your Voiceflow chatbots to your WordPress site without any coding.
 * **Flexible Integration:** Two options. Embed the Voiceflow agent directly inside your webpages for the most immersive user experience. Or, take the traditional route and have the Voiceflow Agent as a pop-up.
-* **Supports bots using chat, text, cards, and advanced chat interfaces along with voice.**
+* **Supports bots using chat, text, cards and other advanced chat interfaces.**
 * **Unique Feature:** Users can add an embed-style chatbot in a page using a section/div ID.
 
 ### Development

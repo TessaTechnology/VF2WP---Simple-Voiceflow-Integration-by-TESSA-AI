@@ -4,15 +4,15 @@ Integrate Voiceflow AI chatbots into WordPress effortlessly with VF2WP by TESSA,
 
 ## Plugin Information
 
-**Contributors:**
-**Donate link:** [TESSA](https://tessa.tech/)
-**Tags:** Voiceflow AI chatbot, WordPress AI agent, Voice flow AI agent plugin, ChatGPT, Voiceflow WordPress plugin
-**WordPress version requires at least:** 6.4.4
-**WordPress version tested up to:** 6.5.3
-**Stable tag:** 1.0.0
-**Requires PHP:** 7.4.30
-**License:** GPLv2 or later
-**License URI:** [GPLv2 License](https://www.gnu.org/licenses/gpl-2.0.html)
+**Contributors:** tessatech  
+**Donate link:** [TESSA](https://tessa.tech/)  
+**Tags:** Voiceflow AI chatbot, WordPress AI agent, Voice flow AI agent plugin, ChatGPT, Voiceflow WordPress plugin  
+**WordPress version requires at least:** 6.4.4  
+**WordPress version tested up to:** 6.5.3  
+**Stable tag:** 1.0.0  
+**Requires PHP:** 7.4.30  
+**License:** GPLv2 or later  
+**License URI:** [GPLv2 License](https://www.gnu.org/licenses/gpl-2.0.html)  
 
 ## Description
 
@@ -78,3 +78,8 @@ Version 1.0.0 - Initial Release:
 * Integration of Voiceflow AI chatbot as a pop-up in WordPress.
 * Integration of Voiceflow AI agent into WordPress using an embed directly into webpage(s) using Section ID.
 * No coding required for installation and integration.
+
+## Upgrade Notice
+
+### 1.0.0
+* Initial release.
